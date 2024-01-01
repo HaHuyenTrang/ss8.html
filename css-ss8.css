@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.table{
+    width: 500px;
+    border: rgb(183, 183, 183) solid;
+    padding: 20px;
+
+}
+.table table1{
+    width: 100%;
+    background-color: #f2dbbd;
+    padding: 20px;
+
+}
+
+.left{
+    margin-left: 30px;
+}
+
+.br{
+    width:200px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-style:double;
+    color:rgba(0, 0, 0, 0.094);
+    text-align: left;
+}
